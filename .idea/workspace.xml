@@ -1,0 +1,1258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4da6e7b5-8506-4d01-ad33-f4c7c1c7178c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/101.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/102.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/109.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/110.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/111.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/112.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/119.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/120.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/121.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/122.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/123.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/124.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/125.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/126.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/127.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/22.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/23.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/25.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/26.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/27.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/28.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/29.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/33.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/34.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/35.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/36.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/37.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/38.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/39.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/41.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/42.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/43.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/44.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/45.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/49.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/52.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/54.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/55.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/59.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/60.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/61.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/62.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/63.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/64.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/65.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/66.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/67.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/68.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/69.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/70.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/71.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/73.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/74.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/75.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/76.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/77.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/78.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/79.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/80.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/81.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/82.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/83.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/84.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/85.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/86.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/87.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/88.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/89.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/90.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/91.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/92.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/93.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/94.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/95.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/97.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/98.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/99.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/SNES - Super Bomberman 4 JPN - Bomberman.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/movedown-0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/movedown-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/movedown-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/movedown-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/moveleft-0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/moveleft-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/moveleft-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/moveleft-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/moveright-0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/moveright-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/moveright-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/moveright-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/moveup-0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/moveup-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/moveup-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bomberman/moveup-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/101.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/102.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/103.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/104.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/105.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/106.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/107.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/108.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/109.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/110.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/111.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/112.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/113.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/27.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/28.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/29.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/33.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/34.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/35.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/36.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/37.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/38-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/38-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/38.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/39.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/41.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/42.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/43.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/53.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/54.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/55.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/56.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/57.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/58.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/59.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/60.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/75.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/76.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/77.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/78.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/79.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/80.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/81.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/82.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/83.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/84.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/85.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/86.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/87.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/88.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/89.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/90.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/91.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/92.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/93.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/94.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/95.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/97.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/98.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/99.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/SNES - Super Bomberman 4 JPN - Bombs &amp; Explosions.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/normalbomb-0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/normalbomb-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/normalbomb-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Bombs &amp; Explosions/normalbomb-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/101.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/102.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/103.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/104.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/105.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/106.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/107.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/108.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/109.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/110.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/111.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/112.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/113.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/114.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/115.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/116.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/117.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/118.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/119.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/120.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/121.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/122.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/123.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/124.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/125.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/126.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/127.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/129.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/130.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/131.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/132.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/133.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/134.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/135.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/136.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/137.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/138.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/139.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/140.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/141.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/142.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/143.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/145.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/146.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/147.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/148.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/149.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/151.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/152.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/153.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/154.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/155.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/156.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/157.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/158.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/159.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/160.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/161.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/162.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/163.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/164.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/165.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/166.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/167.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/168.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/169.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/170.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/171.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/172.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/173.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/174.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/175.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/176.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/177.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/178.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/179.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/180.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/181.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/182.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/183.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/184.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/185.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/186.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/187.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/188.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/189.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/190.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/191.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/192.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/193.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/194.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/195.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/196.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/197.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/198.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/199.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/200.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/201.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/202.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/203.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/204.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/205.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/206.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/207.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/208.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/209.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/210.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/211.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/212.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/213.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/214.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/215.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/216.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/217.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/218.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/219.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/22.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/220.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/221.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/222.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/223.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/224.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/225.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/226.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/227.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/228.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/229.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/23.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/230.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/231.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/232.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/233.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/234.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/235.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/236.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/237.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/238.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/239.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/241.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/242.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/243.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/244.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/245.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/246.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/247.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/248.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/249.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/25.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/250.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/251.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/252.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/253.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/254.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/255.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/256.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/257.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/258.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/259.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/26.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/260.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/261.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/262.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/263.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/264.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/265.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/266.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/267.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/268.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/269.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/27.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/270.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/271.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/272.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/273.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/274.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/275.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/276.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/277.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/278.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/279.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/28.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/280.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/281.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/282.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/283.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/284.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/285.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/286.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/287.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/288.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/289.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/29.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/290.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/291.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/292.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/293.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/294.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/295.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/296.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/297.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/298.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/299.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/300.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/301.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/302.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/303.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/304.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/305.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/306.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/307.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/308.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/309.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/310.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/311.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/312.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/313.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/314.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/315.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/316.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/317.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/318.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/319.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/320.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/321.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/322.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/323.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/324.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/325.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/326.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/327.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/328.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/329.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/33.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/330.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/331.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/332.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/333.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/334.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/335.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/336.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/337.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/338.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/339.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/34.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/340.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/341.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/342.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/343.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/344.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/345.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/346.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/347.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/348.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/349.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/35.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/350.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/36.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/37.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/38.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/39.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/41.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/42.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/43.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/44.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/45.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/46.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/47.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/49.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/51.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/52.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/53.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/54.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/55.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/56.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/57.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/58.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/59.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/60.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/61.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/62.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/63.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/64.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/65.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/66.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/67.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/68.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/69.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/70.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/71.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/73.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/74.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/75.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/76.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/77.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/78.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/79.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/80.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/81.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/82.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/83.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/84.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/85.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/86.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/87.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/88.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/89.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/90.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/91.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/92.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/93.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/94.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/95.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/97.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/98.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/99.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Enemies/SNES - Super Bomberman 2 - Enemies.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion0-0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion0-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion0-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion0-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion0-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion1-0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion1-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion1-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion1-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion1-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion2-0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion2-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion2-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion2-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion2-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion3-0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion3-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion3-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion3-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion3-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion4-0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion4-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion4-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion4-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion4-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion5-0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion5-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion5-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion5-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion5-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion6-0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion6-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion6-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion6-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Explosions/explosion6-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Items/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Items/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Items/10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Items/11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Items/12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Items/13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Items/14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Items/15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Items/16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Items/17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Items/18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Items/19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Items/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Items/20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Items/21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Items/22.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Items/23.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Items/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Items/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Items/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Items/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Items/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Items/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Items/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Items/SNES - Super Bomberman 5 JPN - Items.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Map/map-1/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Map/map-1/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Map/map-1/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Map/map-1/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Map/map-1/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Map/map-1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/controllers/BombController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/controllers/ControllerManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/controllers/ExplosionController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/controllers/GameController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/controllers/ItemMapController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/controllers/MapManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/controllers/PlayerController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/gui/GameFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/gui/GamePanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/gui/MainPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/GameModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/GameVector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/ItemMapModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/PlayerModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/Terrain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/program/GameManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/program/Program.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/utils/GameSetting.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/utils/SoundPlayer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/utils/Utils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/Animation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/BombView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/EnemyView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/ExplosionView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/GameView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/PlayerView.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BombHoiHa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BombHoiHa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BombHoiHa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BombHoiHa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BombHoiHa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BombHoiHa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="program" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BombHoiHa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BombHoiHa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BombHoiHa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BombHoiHa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\KhoaBeo\Documents\BombHoiHa" />
+      <recent name="C:\Users\KhoaBeo\Documents\BombHoiHa\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Program">
+    <configuration default="false" name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="program.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="program.Program" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="BombHoiHa" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="BombHoiHa" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Program" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Program" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4da6e7b5-8506-4d01-ad33-f4c7c1c7178c" name="Default" comment="" />
+      <created>1489236024950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1489236024950</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BombHoiHa.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controllers/MapManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/MainPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/models/Terrain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/program/Program.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/models/GameVector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/models/PlayerModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/GameSetting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controllers/ControllerManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/ExplosionView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/GamePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>BombHoiHa</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
