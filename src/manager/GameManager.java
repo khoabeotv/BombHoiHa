@@ -1,9 +1,6 @@
-package program;
+package manager;
 
-import controllers.ControllerManager;
-import controllers.GameController;
-import controllers.MapManager;
-import controllers.PlayerController;
+import controllers.*;
 import models.PlayerModel;
 import views.PlayerView;
 
@@ -16,14 +13,18 @@ import java.util.List;
  */
 public class GameManager {
 
-    public static final ControllerManager controllerManager = new ControllerManager();
-    public static final List<GameController> arrBlocks = new ArrayList<>();
+    public static ControllerManager controllerManager;
+    public static CollisionManager collisionManager;
+    public static List<GameController> arrBlocks;
+
     private ControllerManager mapManager;
     private GameController playerController;
 
     public GameManager() {
+        controllerManager = new ControllerManager();
+        arrBlocks = new ArrayList<>();
+        collisionManager = new CollisionManager();
         mapManager = new MapManager();
-        ((MapManager) mapManager).readMap(1);
 
         playerController = new PlayerController(
                 new PlayerModel(0, 50),
@@ -35,6 +36,7 @@ public class GameManager {
     public void run() {
         mapManager.run();
         controllerManager.run();
+        collisionManager.run();
     }
 
     public void draw(Graphics graphics) {

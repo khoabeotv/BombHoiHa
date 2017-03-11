@@ -5,5 +5,6 @@ package models;
  */
 public enum Terrain {
     BLOCK,
-    LAND
+    LAND,
+    BREAK
 }

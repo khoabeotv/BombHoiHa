@@ -17,4 +17,8 @@ public class ItemMapModel extends GameModel {
     public Terrain getTerrain() {
         return terrain;
     }
+
+    public void setTerrain(Terrain terrain) {
+        this.terrain = terrain;
+    }
 }

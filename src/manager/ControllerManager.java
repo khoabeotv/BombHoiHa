@@ -1,4 +1,6 @@
-package controllers;
+package manager;
+
+import controllers.GameController;
 
 import java.awt.*;
 import java.util.ArrayList;

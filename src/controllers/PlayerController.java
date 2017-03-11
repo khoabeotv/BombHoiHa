@@ -3,7 +3,7 @@ package controllers;
 import models.GameModel;
 import models.ItemMapModel;
 import models.PlayerModel;
-import program.GameManager;
+import manager.GameManager;
 import views.BombView;
 import views.GameView;
 import views.PlayerView;

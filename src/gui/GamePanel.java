@@ -1,6 +1,6 @@
 package gui;
 
-import program.GameManager;
+import manager.GameManager;
 
 import javax.swing.*;
 import java.awt.*;
